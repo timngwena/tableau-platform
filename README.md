@@ -9,60 +9,134 @@ https://excalidraw.com to find out how to use it.
 
 diagram.png
 
-## List of Products 
-Tableau Desktop
-Tableau Prep (builder)
-Tableau Prep (Conductor)
-Tableau Server
-Tableau Cloud
-Tableau Pulse
-Tableau Pulse (premium)
+Product Categories
+Tableau Licensing
+
+Core Licenses
+
+Tableau
+Enterprise
 Tableau +
-Tableau Einstein
-Tableau Next
+
+
+User Roles
+
 Tableau Creator
 Tableau Explorer
 Tableau Viewer
-Tableau
-Agentforce
-Agentforce Ai Studio
-Agents
+
+
+Management Add-ons
+
 Tableau Advanced Management
-Tableau APIs
 Tableau Data Management
-Tableau Business Science
-Tableau Blueprint / Drive
-Tableau Exchange
-Tableau Core
-Datapro
-Inspector
-Metrics
-Hyperforce
-Enterprise
 Data Connect
 Resource Blocks
-Data Cloud
-Einstein
+Tableau elearning
+Tableau Blueprint / Drive
+
+
+
+Tableau Core (Current Platform)
+
+Host: Desktop Applications
+
+Tableau Desktop
+Tableau Desktop Public edition
+Tableau Business Science
+Tableau Authoring
+Tableau Semantics connector
+
+
+Host: Prep
+
+Tableau Prep (builder)
+
+
+Server
+
+Tableau Server
+Tableau APIs
+Tableau Prep (Conductor)
+Tableau Web Authoring
+
+
+Cloud
+
+Tableau Cloud
+Tableau Pulse
+Tableau Pulse (premium)
+Tableau Bridge
 Tableau AI
 Tableau Agent
 Tableau Cloud Manager
-Tableau Authoring
 Tableau Web Authoring
+Tableau APIs
+Tableau Prep (Conductor)
+
+
+Internet
+
 Tableau Public
-Tableau Desktop Public edition
-Tableau elearning
-Tableau Semantics
-Salesforce CRM
-Customer Clouds
-Tableau Bridge
-Tableau Reader
+Tableau Public Web authoring
+
+
+Internet: Exchange
+
+Tableau Exchange
+Connectors
+Viz Extensions
+
+
+Device
+
 Tableau Mobile
+
+
+Document
+
+Tableau Reader
+
+
+
+Tableau Next (Formerly Tableau Einstein)
+
+Analytics Components
+
+Metrics
+Datapro
+Inspector
+Concierge
+Agents
+
+
+Data Platform
+
+Tableau Semantics
+Data Cloud
+Data Cloud for Tableau next
+
+
+
+Salesforce Integration
+
+Einstein
 Einstein Trust Layer
+Customer Clouds
+Salesforce Flow
+Salesforce CRM
 Tableau CRM
-Tableau Business Science
+Hyperforce
+Agentforce
+Agentforce Ai Studio
+Agents
+
+Communication Platform
+
+Slack
+
+Tableau Community
+
 Tableau Ambassador
 Tableau Visionary
 Tableau Zen Master
-Concierge
-Slack
-Salesforce Flow
