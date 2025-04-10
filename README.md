@@ -4,8 +4,8 @@ A better platform diagram for Tableau Core and Tableau Next and anything from Sa
 ## Diagram made using Escalidraw
 https://excalidraw.com to find out how to use it. 
 
-Link to view the diagram. https://link.excalidraw.com/l/8G59ugZXgZP/9fTZBGB39E0 
-Presentation view: https://link.excalidraw.com/p/readonly/PuOayWt11E0Bp0Sd1rqT
+- Link to view the diagram. https://link.excalidraw.com/l/8G59ugZXgZP/9fTZBGB39E0 
+- Presentation view: https://link.excalidraw.com/p/readonly/PuOayWt11E0Bp0Sd1rqT
 
 ## List of Products 
 Tableau Desktop
