@@ -15,6 +15,7 @@ https://excalidraw.com to find out how to use it.
 - Tableau Certification
 - Tableau Forum
 - Tableau Early Adopter
+- Tableau Release Navigator
 
 ## Product Categories
 
