@@ -21,7 +21,7 @@ https://excalidraw.com to find out how to use it.
   - Tableau Creator
   - Tableau Explorer
   - Tableau Viewer
-- **Management Add-ons**
+- **Add-on & Learnings**
   - Tableau Advanced Management
   - Tableau Data Management
   - Data Connect
@@ -54,16 +54,15 @@ https://excalidraw.com to find out how to use it.
   - Tableau Web Authoring
   - Tableau APIs
   - Tableau Prep (Conductor)
-- **Internet**
+- **Sites**
   - Tableau Public
   - Tableau Public Web authoring
-- **Internet: Exchange**
   - Tableau Exchange
   - Connectors
   - Viz Extensions
 - **Device**
   - Tableau Mobile
-- **Document**
+- **Document readers**
   - Tableau Reader
 
 ### Tableau Next (Formerly Tableau Einstein)
