@@ -7,136 +7,93 @@ https://excalidraw.com to find out how to use it.
  - Link to view the diagram. https://link.excalidraw.com/l/8G59ugZXgZP/9fTZBGB39E0 
  - Presentation view: https://link.excalidraw.com/p/readonly/PuOayWt11E0Bp0Sd1rqT
 
-diagram.png
-
-Product Categories
-Tableau Licensing
-
-Core Licenses
-
-Tableau
-Enterprise
-Tableau +
+./diagram.png
 
 
-User Roles
+## Product Categories
 
-Tableau Creator
-Tableau Explorer
-Tableau Viewer
+### Tableau Licensing
+- **Core Licenses**
+  - Tableau
+  - Enterprise
+  - Tableau +
+- **User Roles**
+  - Tableau Creator
+  - Tableau Explorer
+  - Tableau Viewer
+- **Management Add-ons**
+  - Tableau Advanced Management
+  - Tableau Data Management
+  - Data Connect
+  - Resource Blocks
+  - Tableau elearning
+  - Tableau Blueprint / Drive
 
+### Tableau Core (Current Platform)
+- **Host: Desktop Applications**
+  - Tableau Desktop
+  - Tableau Desktop Public edition
+  - Tableau Business Science
+  - Tableau Authoring
+  - Tableau Semantics connector
+- **Host: Prep**
+  - Tableau Prep (builder)
+- **Server**
+  - Tableau Server
+  - Tableau APIs
+  - Tableau Prep (Conductor)
+  - Tableau Web Authoring
+- **Cloud**
+  - Tableau Cloud
+  - Tableau Pulse
+  - Tableau Pulse (premium)
+  - Tableau Bridge
+  - Tableau AI
+  - Tableau Agent
+  - Tableau Cloud Manager
+  - Tableau Web Authoring
+  - Tableau APIs
+  - Tableau Prep (Conductor)
+- **Internet**
+  - Tableau Public
+  - Tableau Public Web authoring
+- **Internet: Exchange**
+  - Tableau Exchange
+  - Connectors
+  - Viz Extensions
+- **Device**
+  - Tableau Mobile
+- **Document**
+  - Tableau Reader
 
-Management Add-ons
+### Tableau Next (Formerly Tableau Einstein)
+- **Analytics Components**
+  - Metrics
+  - Datapro
+  - Inspector
+  - Concierge
+  - Agents
+- **Data Platform**
+  - Tableau Semantics
+  - Data Cloud
+  - Data Cloud for Tableau next
 
-Tableau Advanced Management
-Tableau Data Management
-Data Connect
-Resource Blocks
-Tableau elearning
-Tableau Blueprint / Drive
+### Salesforce Integration
+- Einstein
+- Einstein Trust Layer
+- Customer Clouds
+- Salesforce Flow
+- Salesforce CRM
+- Tableau CRM
+- Hyperforce
+- Agentforce
+- Agentforce Ai Studio
+- Agents
 
+### Communication Platform
+- Slack
 
-
-Tableau Core (Current Platform)
-
-Host: Desktop Applications
-
-Tableau Desktop
-Tableau Desktop Public edition
-Tableau Business Science
-Tableau Authoring
-Tableau Semantics connector
-
-
-Host: Prep
-
-Tableau Prep (builder)
-
-
-Server
-
-Tableau Server
-Tableau APIs
-Tableau Prep (Conductor)
-Tableau Web Authoring
-
-
-Cloud
-
-Tableau Cloud
-Tableau Pulse
-Tableau Pulse (premium)
-Tableau Bridge
-Tableau AI
-Tableau Agent
-Tableau Cloud Manager
-Tableau Web Authoring
-Tableau APIs
-Tableau Prep (Conductor)
-
-
-Internet
-
-Tableau Public
-Tableau Public Web authoring
-
-
-Internet: Exchange
-
-Tableau Exchange
-Connectors
-Viz Extensions
-
-
-Device
-
-Tableau Mobile
-
-
-Document
-
-Tableau Reader
-
-
-
-Tableau Next (Formerly Tableau Einstein)
-
-Analytics Components
-
-Metrics
-Datapro
-Inspector
-Concierge
-Agents
-
-
-Data Platform
-
-Tableau Semantics
-Data Cloud
-Data Cloud for Tableau next
-
-
-
-Salesforce Integration
-
-Einstein
-Einstein Trust Layer
-Customer Clouds
-Salesforce Flow
-Salesforce CRM
-Tableau CRM
-Hyperforce
-Agentforce
-Agentforce Ai Studio
-Agents
-
-Communication Platform
-
-Slack
-
-Tableau Community
-
-Tableau Ambassador
-Tableau Visionary
-Tableau Zen Master
+### Tableau Community
+- Tableau Ambassador
+- Tableau Visionary
+- Tableau Zen Master
