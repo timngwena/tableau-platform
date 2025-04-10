@@ -9,6 +9,13 @@ https://excalidraw.com to find out how to use it.
 
 ![Tableau Platform Diagram](./diagram.png)
 
+## Missing Items 
+
+- Tableau Partner
+- Tableau Certification
+- Tableau Forum
+- Tableau Early Adopter
+
 ## Product Categories
 
 ### Tableau Licensing
